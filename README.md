@@ -26,7 +26,6 @@ Dicas e links interessantes para usuários Linux.
  ```
 $ touch arquivo
 ```
-[sumário](#sumário) 
 ---
 Remover arquivo
 ```
