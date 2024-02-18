@@ -14,6 +14,13 @@ Dicas e links interessantes para usuários Linux.
 * 
 *
 *
+* 
+*
+*
+*
+* 
+*
+*
 ---
 Criar arquivo via terminal
  ```
