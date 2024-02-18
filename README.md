@@ -5,9 +5,7 @@ Dicas e links interessantes para usuários Linux.
 
 ---
 ### Sumário
-
 Criar arquivo via terminal
-
 Remover arquivo
 ---
 Criar arquivo via terminal
