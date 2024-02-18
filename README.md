@@ -23,7 +23,7 @@ Dicas e links interessantes para usuários Linux.
 *
 ---
 ### Criar arquivo via terminal
-[sumário](#-sumário)
+[sumário](#sumário)
  ```
 $ touch arquivo
 ```
