@@ -5,7 +5,7 @@ Dicas e links interessantes para usuários Linux.
 
 
 ### Sumário
-* [Criar arquivo via terminal](#criar-arquivo-via-terminal)
+* [Criar arquivo via terminal](#criar-arquivo-via-terminal2)
 * Remover arquivo
 * 
 *
@@ -22,7 +22,7 @@ Dicas e links interessantes para usuários Linux.
 *
 *
 ---
-Criar arquivo via terminal
+Criar arquivo via terminal2
  ```
 $ touch arquivo
 ```
