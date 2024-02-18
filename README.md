@@ -6,5 +6,13 @@ Dicas e links interessantes para usuários Linux.
 ---
 Criar arquivo via terminal
  ```
-$ touch arquivo.txt
+$ touch arquivo
 ```
+---
+Remover arquivo
+```
+$ rm arquivo
+```
+---
+arataca89@gmail.com
+Aulas particulares de programação C/C++
