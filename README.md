@@ -22,7 +22,7 @@ Dicas e links interessantes para usuários Linux.
 *
 *
 ---
-### Criar arquivo via terminal2
+### Criar arquivo via terminal
  ```
 $ touch arquivo
 ```
