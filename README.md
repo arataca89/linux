@@ -6,7 +6,7 @@ Dicas e links interessantes para usuários Linux.
 
 ### Sumário
 * [Criar arquivo via terminal](#criar-arquivo-via-terminal)
-* Remover arquivo
+* [Remover arquivo](#remover-arquivo)
 * 
 *
 *
@@ -27,7 +27,7 @@ Dicas e links interessantes para usuários Linux.
 $ touch arquivo
 ```
 ---
-Remover arquivo
+### Remover arquivo
 ```
 $ rm arquivo
 ```
