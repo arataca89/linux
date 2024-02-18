@@ -1,2 +1,2 @@
-# Dicas e links úteis para usuários linux
+# arataca89 - Linux
 Dicas e links interessantes para usuários linux.
